@@ -2,12 +2,11 @@
 
 [![Build Status](https://travis-ci.org/tweag/monad-bayes.svg?branch=master)](https://travis-ci.org/tweag/monad-bayes)
 
+The library is now maintained by [Tweag I/O][tweagio]. The main repo is now [here](https://github.com/tweag/monad-bayes).
+
 A library for **probabilistic programming in Haskell** using probability
 monads. The emphasis is on composition of inference algorithms implemented in
 terms of monad transformers.
-
-Created by [Adam Scibior][adam-web] ([@adscib][adam-github]), maintained by
-[Tweag I/O][tweagio].
 
 ## Project status
 
